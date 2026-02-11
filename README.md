@@ -1,1 +1,2 @@
-# random-gifs which is React based application.
+# random-gifs 
+# React based application.
